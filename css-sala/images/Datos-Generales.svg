@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <clipPath id="clip-Datos-Generales">
+      <rect width="70" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Datos-Generales" clip-path="url(#clip-Datos-Generales)">
+    <g id="Grupo_101" data-name="Grupo 101" transform="translate(652 -2047)">
+      <g id="Rectángulo_32" data-name="Rectángulo 32" transform="translate(-638 2091)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_26" data-name="Rectángulo 26" transform="translate(-627 2073)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_31" data-name="Rectángulo 31" transform="translate(-627 2091)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_27" data-name="Rectángulo 27" transform="translate(-616 2073)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_30" data-name="Rectángulo 30" transform="translate(-616 2091)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_28" data-name="Rectángulo 28" transform="translate(-605 2073)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_29" data-name="Rectángulo 29" transform="translate(-605 2091)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_33" data-name="Rectángulo 33" transform="translate(-637 2076)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="7" height="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="6" height="15" fill="none"/>
+      </g>
+      <g id="Rectángulo_34" data-name="Rectángulo 34" transform="translate(-626 2076)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="7" height="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="6" height="15" fill="none"/>
+      </g>
+      <g id="Rectángulo_35" data-name="Rectángulo 35" transform="translate(-615 2076)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="7" height="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="6" height="15" fill="none"/>
+      </g>
+      <g id="Rectángulo_36" data-name="Rectángulo 36" transform="translate(-604 2076)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="7" height="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="6" height="15" fill="none"/>
+      </g>
+      <g id="Rectángulo_25" data-name="Rectángulo 25" transform="translate(-638 2073)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_37" data-name="Rectángulo 37" transform="translate(-640 2094)" fill="#71b1d8" stroke="#000" stroke-width="1">
+        <rect width="46" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="45" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_38" data-name="Rectángulo 38" transform="translate(-640 2097)" fill="#70b2d9" stroke="#000" stroke-width="1">
+        <rect width="46" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="45" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_39" data-name="Rectángulo 39" transform="translate(-640 2070)" fill="#70b2d9" stroke="#000" stroke-width="1">
+        <rect width="46" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="45" height="3" fill="none"/>
+      </g>
+      <g id="Polígono_5" data-name="Polígono 5" transform="translate(-640 2054)" fill="#ffcd35">
+        <path d="M 44.40569686889648 15.5 L 1.594301819801331 15.5 L 23 0.6090795397758484 L 44.40569686889648 15.5 Z" stroke="none"/>
+        <path d="M 23 1.218169212341309 L 3.188617706298828 15 L 42.81138229370117 15 L 23 1.218169212341309 M 23 0 L 46 16 L 0 16 L 23 0 Z" stroke="none"/>
+      </g>
+      <path id="Polígono_6" data-name="Polígono 6" d="M21,0,42,14H0Z" transform="translate(-638 2056)" fill="#ffcd35"/>
+      <g id="Elipse_9" data-name="Elipse 9" transform="translate(-620 2060)" fill="#707070" stroke="#707070" stroke-width="1">
+        <circle cx="3" cy="3" r="3" stroke="none"/>
+        <circle cx="3" cy="3" r="2.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

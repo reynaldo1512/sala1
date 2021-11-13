@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <clipPath id="clip-Acceso-Informacion">
+      <rect width="70" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Acceso-Informacion" clip-path="url(#clip-Acceso-Informacion)">
+    <g id="Grupo_110" data-name="Grupo 110" transform="translate(96 -1943)">
+      <path id="Trazado_422" data-name="Trazado 422" d="M-76.521,1994.829h32.939v-37.112l-6.26-5.994H-73.883a7.574,7.574,0,0,0-1.643,1.1,4.8,4.8,0,0,0-1,1.4Z" transform="translate(-0.683 -0.754)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Trazado_413" data-name="Trazado 413" d="M-76.671,1970.2v23.335h31.963v-36.178h-6.211v-5.886l6.211,5.886-6.211-5.886H-68.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Trazado_414" data-name="Trazado 414" d="M-64.048,1955.9h9.282" fill="none" stroke="#f46a6f" stroke-width="1"/>
+      <path id="Trazado_415" data-name="Trazado 415" d="M-64.048,1955.9h9.282" transform="translate(0 3)" fill="none" stroke="#f46a6f" stroke-width="1"/>
+      <path id="Trazado_416" data-name="Trazado 416" d="M-64.048,1955.922h14.985" transform="translate(0 5.979)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Trazado_417" data-name="Trazado 417" d="M-64.048,1955.964h14.985" transform="translate(0 8.936)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Trazado_418" data-name="Trazado 418" d="M-64.048,1955.9h14.985" transform="translate(0 12)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Trazado_419" data-name="Trazado 419" d="M-73.006,1971.6h11.388v18.176H-73.006Z" fill="#ffcd36"/>
+      <path id="Trazado_420" data-name="Trazado 420" d="M-73.006,1971.6h11.388v18.176H-73.006Z" transform="translate(13)" fill="#75beea"/>
+      <path id="Trazado_421" data-name="Trazado 421" d="M-68.107,1955.677v8.138a2.64,2.64,0,0,1-.1.576c-.081.253.049.072-.228.437-.349.473-2.427,2.738-3.967,2.762-1.518.024-3.085-1.248-4.1-2.514a1.243,1.243,0,0,1-.3-.512,2.229,2.229,0,0,1-.115-.607l.02-9.738a2.451,2.451,0,0,1,.135-.567c.1-.262-.005-.141.281-.48a3.745,3.745,0,0,1,2.606-1.582,4.581,4.581,0,0,1,2.8,1.654.85.85,0,0,1,.263.409,1.677,1.677,0,0,1,.093.5l-.093,8.9a2.225,2.225,0,0,1-1,.758,1.4,1.4,0,0,1-.984,0,1.211,1.211,0,0,1-1.077-.758v-7.586" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

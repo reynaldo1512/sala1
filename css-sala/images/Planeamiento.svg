@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <clipPath id="clip-Planeamiento">
+      <rect width="70" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Planeamiento" clip-path="url(#clip-Planeamiento)">
+    <g id="Grupo_102" data-name="Grupo 102" transform="translate(598 -1677)">
+      <g id="Rectángulo_40" data-name="Rectángulo 40" transform="translate(-574 1685)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="23" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="22" height="11" fill="none"/>
+      </g>
+      <g id="Rectángulo_42" data-name="Rectángulo 42" transform="translate(-570 1717)" fill="#0078c1" stroke="#000" stroke-width="1">
+        <rect width="15" height="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="12" fill="none"/>
+      </g>
+      <g id="Rectángulo_51" data-name="Rectángulo 51" transform="translate(-587 1717)" fill="#ee1c24" stroke="#000" stroke-width="1">
+        <rect width="15" height="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="12" fill="none"/>
+      </g>
+      <g id="Rectángulo_50" data-name="Rectángulo 50" transform="translate(-553 1717)" fill="#75beea" stroke="#000" stroke-width="1">
+        <rect width="15" height="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="12" fill="none"/>
+      </g>
+      <g id="Rectángulo_44" data-name="Rectángulo 44" transform="translate(-587 1701)" fill="#ffcd35" stroke="#000" stroke-width="1">
+        <rect width="49" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="48" height="11" fill="none"/>
+      </g>
+      <g id="Rectángulo_45" data-name="Rectángulo 45" transform="translate(-580 1713)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_52" data-name="Rectángulo 52" transform="translate(-569.5 1723.5) rotate(90)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" height="2" fill="none"/>
+      </g>
+      <g id="Rectángulo_53" data-name="Rectángulo 53" transform="translate(-552.5 1723.5) rotate(90)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" height="2" fill="none"/>
+      </g>
+      <g id="Rectángulo_46" data-name="Rectángulo 46" transform="translate(-546 1713)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_47" data-name="Rectángulo 47" transform="translate(-563 1713)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_48" data-name="Rectángulo 48" transform="translate(-563 1697)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="1" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" height="3" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

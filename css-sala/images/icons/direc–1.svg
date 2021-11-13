@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <clipPath id="clip-direc_1">
+      <rect width="70" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="direc_1" data-name="direc – 1" clip-path="url(#clip-direc_1)">
+    <g id="organigrama" transform="translate(5 -18.211)">
+      <g id="Grupo_19" data-name="Grupo 19" transform="translate(23.381 68.04)">
+        <path id="Trazado_124" data-name="Trazado 124" d="M200.441,422.675H213.4v7.07H200.441Z" transform="translate(-200.441 -422.675)" fill="#f6e266"/>
+      </g>
+      <g id="Grupo_20" data-name="Grupo 20" transform="translate(45.886 68.04)">
+        <path id="Trazado_125" data-name="Trazado 125" d="M393.382,422.675h12.961v7.07H393.382Z" transform="translate(-393.382 -422.675)" fill="#f6e266"/>
+      </g>
+      <g id="Grupo_21" data-name="Grupo 21" transform="translate(0.875 68.04)">
+        <path id="Trazado_126" data-name="Trazado 126" d="M0,0H12.961V7.07H0Z" transform="translate(12.961 7.07) rotate(180)" fill="#f6e266"/>
+      </g>
+      <g id="Grupo_26" data-name="Grupo 26" transform="translate(19.963 22.086)">
+        <g id="Grupo_22" data-name="Grupo 22" transform="translate(4.006 0)">
+          <circle id="Elipse_3" data-name="Elipse 3" cx="5.892" cy="5.892" r="5.892" fill="#f1d0a5"/>
+        </g>
+        <g id="Grupo_23" data-name="Grupo 23" transform="translate(4.788 0.781)">
+          <path id="Trazado_127" data-name="Trazado 127" d="M220.231,35.41a5.89,5.89,0,0,1-8.041,8.041,5.891,5.891,0,1,0,8.041-8.041Z" transform="translate(-212.19 -35.41)" fill="#f1b986"/>
+        </g>
+        <g id="Grupo_24" data-name="Grupo 24" transform="translate(0 11.783)">
+          <path id="Trazado_128" data-name="Trazado 128" d="M171.146,134.44v5.185h19.8V134.44a4.713,4.713,0,0,0-4.713-4.713H175.859A4.713,4.713,0,0,0,171.146,134.44Z" transform="translate(-171.146 -129.727)" fill="#c8ea73"/>
+        </g>
+        <g id="Grupo_25" data-name="Grupo 25" transform="translate(12.254 11.783)">
+          <path id="Trazado_129" data-name="Trazado 129" d="M279.031,129.728H276.2a4.713,4.713,0,0,1,4.713,4.713v5.185h2.828v-5.185A4.713,4.713,0,0,0,279.031,129.728Z" transform="translate(-276.203 -129.728)" fill="#b7e445"/>
+        </g>
+      </g>
+      <g id="Grupo_27" data-name="Grupo 27" transform="translate(23.381 53.429)">
+        <path id="Trazado_130" data-name="Trazado 130" d="M200.441,297.415H213.4v7.07H200.441Z" transform="translate(-200.441 -297.415)" fill="#dd5790"/>
+      </g>
+      <g id="Grupo_28" data-name="Grupo 28" transform="translate(45.886 53.429)">
+        <path id="Trazado_131" data-name="Trazado 131" d="M393.382,297.415h12.961v7.07H393.382Z" transform="translate(-393.382 -297.415)" fill="#dd5790"/>
+      </g>
+      <g id="Grupo_29" data-name="Grupo 29" transform="translate(0.875 53.429)">
+        <path id="Trazado_132" data-name="Trazado 132" d="M0,0H12.961V7.07H0Z" transform="translate(12.961 7.07) rotate(180)" fill="#dd5790"/>
+      </g>
+      <g id="Grupo_30" data-name="Grupo 30" transform="translate(11.48 53.429)">
+        <path id="Trazado_133" data-name="Trazado 133" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#da387d"/>
+      </g>
+      <g id="Grupo_31" data-name="Grupo 31" transform="translate(33.985 53.429)">
+        <path id="Trazado_134" data-name="Trazado 134" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#da387d"/>
+      </g>
+      <g id="Grupo_32" data-name="Grupo 32" transform="translate(56.491 53.429)">
+        <path id="Trazado_135" data-name="Trazado 135" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#da387d"/>
+      </g>
+      <g id="Grupo_33" data-name="Grupo 33" transform="translate(11.48 68.04)">
+        <path id="Trazado_136" data-name="Trazado 136" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#f1d333"/>
+      </g>
+      <g id="Grupo_34" data-name="Grupo 34" transform="translate(33.985 68.04)">
+        <path id="Trazado_137" data-name="Trazado 137" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#f1d333"/>
+      </g>
+      <g id="Grupo_35" data-name="Grupo 35" transform="translate(56.491 68.04)">
+        <path id="Trazado_138" data-name="Trazado 138" d="M0,0H2.357V7.07H0Z" transform="translate(2.357 7.07) rotate(180)" fill="#f1d333"/>
+      </g>
+      <path id="Trazado_139" data-name="Trazado 139" d="M58.848,61.374a.875.875,0,0,0,.875-.875v-7.07a.875.875,0,0,0-.875-.875H57.825a.875.875,0,1,0,0,1.75h.148v5.32H46.761V54.3h6.981a.875.875,0,0,0,0-1.75h-.5V48.716a.875.875,0,0,0-.875-.875H30.736v-3.2h9.023a.875.875,0,0,0,.875-.875V38.582a5.594,5.594,0,0,0-5.588-5.588H34.4a6.766,6.766,0,1,0-9.071,0h-.649a5.594,5.594,0,0,0-5.588,5.588v5.185a.875.875,0,0,0,.875.875h9.023v3.2H7.356a.875.875,0,0,0-.875.875v3.839h-.5a.875.875,0,1,0,0,1.75h6.981v5.32H1.75V54.3H1.9a.875.875,0,1,0,0-1.75H.875A.875.875,0,0,0,0,53.429V60.5a.875.875,0,0,0,.875.875H6.481v5.791H.875A.875.875,0,0,0,0,68.04v7.07a.875.875,0,0,0,.875.875H13.836a.875.875,0,0,0,.875-.875V68.04a.875.875,0,0,0-.875-.875H8.23V61.374h5.606a.875.875,0,0,0,.875-.875v-7.07a.875.875,0,0,0-.875-.875H8.23V49.591H28.986v2.963H23.381a.875.875,0,0,0-.875.875V60.5a.875.875,0,0,0,.875.875h5.606v5.792H23.38a.875.875,0,0,0-.875.875v7.07a.875.875,0,0,0,.875.875h4.44a.875.875,0,0,0,0-1.75H24.255v-5.32H35.467v5.32H31.9a.875.875,0,1,0,0,1.75h4.44a.875.875,0,0,0,.875-.875V68.04a.875.875,0,0,0-.875-.875H30.736V61.374h5.606a.875.875,0,0,0,.875-.875v-7.07a.875.875,0,0,0-.875-.875H30.736V49.591H51.492v2.964H45.886a.875.875,0,0,0-.875.875V60.5a.875.875,0,0,0,.875.875h5.606v5.791H45.886a.875.875,0,0,0-.875.875v7.07a.875.875,0,0,0,.875.875H58.848a.875.875,0,0,0,.875-.875V68.04a.875.875,0,0,0-.875-.875H53.242V61.374Zm-34-33.4a5.017,5.017,0,1,1,5.017,5.017A5.022,5.022,0,0,1,24.845,27.978Zm-4.006,10.6a3.843,3.843,0,0,1,3.838-3.838H35.046a3.843,3.843,0,0,1,3.838,3.838v4.31h-3.2V41.41a.875.875,0,0,0-1.75,0v1.482H25.787V41.41a.875.875,0,0,0-1.75,0v1.482h-3.2v-4.31ZM12.961,74.235H1.75v-5.32H12.961ZM35.467,59.624H24.255V54.3H35.467ZM57.973,74.235H46.761v-5.32H57.973Z"/>
+    </g>
+  </g>
+</svg>

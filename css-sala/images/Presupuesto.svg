@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60" viewBox="0 0 70 60">
+  <defs>
+    <clipPath id="clip-Presupuesto">
+      <rect width="70" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Presupuesto" clip-path="url(#clip-Presupuesto)">
+    <g id="Grupo_103" data-name="Grupo 103" transform="translate(521 -1342)">
+      <ellipse id="Elipse_15" data-name="Elipse 15" cx="22.5" cy="23" rx="22.5" ry="23" transform="translate(-508 1349)" fill="#ffcd36"/>
+      <g id="Rectángulo_55" data-name="Rectángulo 55" transform="translate(-510 1361)" fill="#b1e0e6" stroke="#000" stroke-width="1">
+        <rect width="48" height="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="47" height="23" fill="none"/>
+      </g>
+      <path id="Trazado_358" data-name="Trazado 358" d="M-554.328,1366.89v10.634l3.469,3.469H-513.3v-14.1l-2.564-2.64h-34.994Z" transform="translate(48)" fill="#0078c1"/>
+      <g id="Elipse_10" data-name="Elipse 10" transform="translate(-502 1371)" fill="#fff" stroke="#715582" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Elipse_13" data-name="Elipse 13" transform="translate(-475 1371)" fill="#fff" stroke="#715582" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Elipse_11" data-name="Elipse 11" transform="translate(-499 1371)" fill="#715582" stroke="#715582" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Elipse_12" data-name="Elipse 12" transform="translate(-472 1371)" fill="#fff" stroke="#715582" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <g id="Elipse_14" data-name="Elipse 14" transform="translate(-492 1367)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5.5" fill="none"/>
+      </g>
+      <text id="s" transform="translate(-489 1375)" font-size="9" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">s</tspan></text>
+      <path id="Trazado_359" data-name="Trazado 359" d="M-535.91,1377.915l1.93-3.364,1.5-2.617" transform="translate(50)" fill="none" stroke="#000" stroke-width="1"/>
+      <g id="Rectángulo_56" data-name="Rectángulo 56" transform="translate(-472 1389)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_65" data-name="Rectángulo 65" transform="translate(-480 1389)" fill="#ffcd36" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_66" data-name="Rectángulo 66" transform="translate(-488 1389)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_57" data-name="Rectángulo 57" transform="translate(-472 1386)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_64" data-name="Rectángulo 64" transform="translate(-480 1386)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_67" data-name="Rectángulo 67" transform="translate(-488 1386)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_58" data-name="Rectángulo 58" transform="translate(-472 1383)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_63" data-name="Rectángulo 63" transform="translate(-480 1383)" fill="#ffcd36" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_59" data-name="Rectángulo 59" transform="translate(-472 1380)" fill="#ffcd36" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_62" data-name="Rectángulo 62" transform="translate(-480 1380)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_60" data-name="Rectángulo 60" transform="translate(-472 1377)" fill="#f9c937" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_61" data-name="Rectángulo 61" transform="translate(-472 1374)" fill="#ffcd36" stroke="#000" stroke-width="1">
+        <rect width="9" height="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8" height="3" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158" height="70" viewBox="0 0 158 70">
+  <defs>
+    <clipPath id="clip-transparencia">
+      <rect width="158" height="70"/>
+    </clipPath>
+  </defs>
+  <g id="transparencia" clip-path="url(#clip-transparencia)">
+    <g id="Grupo_112" data-name="Grupo 112" transform="translate(-0.505 -2.271)">
+      <text id="Portal_de_" data-name="Portal de " transform="translate(2.505 41.271)" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.084em"><tspan x="0" y="0">Portal de </tspan></text>
+      <text id="Transparencia-2" data-name="Transparencia" transform="translate(0.505 63.271)" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.084em"><tspan x="0" y="0">Transparencia</tspan></text>
+      <text id="PTE" transform="translate(121.142 29.493)" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.084em"><tspan x="0" y="0">PTE</tspan></text>
+      <path id="Icon_awesome-search-minus" data-name="Icon awesome-search-minus" d="M39.671,36.968l-2.393,2.393a2.021,2.021,0,0,1-2.866,0L29,34.271a2.028,2.028,0,0,1-.592-1.437V31.455a17.58,17.58,0,1,1,3.044-3.044h1.378A2.028,2.028,0,0,1,34.271,29l5.4,5.09A2.047,2.047,0,0,1,39.671,36.968ZM29.087,17.588a11.5,11.5,0,1,0-11.5,11.5A11.49,11.49,0,0,0,29.087,17.588Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 110.651, 12.085)"/>
+    </g>
+  </g>
+</svg>
