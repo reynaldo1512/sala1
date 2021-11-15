@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta name ="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">
+        <link rel="stylesheet" href="stylesala.css">
+        <link href="css-sala/css/bootstrap.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+        rel="stylesheet">
+    
+    <link href="css-sala/fontawesome-all.css" rel="stylesheet">
+    <link href="css-sala/swiper.css" rel="stylesheet">
+    <link href="css-sala/magnific-popup.css" rel="stylesheet">
+    <link href="css-sala/styles.css" rel="stylesheet">
+  
+    </head>
+    <body data-spy="scroll" data-target=".fixed-top">
+    </head>
+    <body>
+        <div class="container-md">
+        <form action="insertar.php"class="form-register" method="post" enctype="multipart/form-data">
+
+           <h2 class="mb-3">Registrar Sala Situacional</h2>
+
+            <div class="mb-3">
+                <label for="floatingInput">Nombre del Documento</label>
+                <input type="text" class="form-control" name="nombresala">
+              </div>
+              <div class="mb-3">
+                <label for="floatingInput">Año</label>
+                <input type="number" min="2000" max="2099" step="1" value="2020"  class="form-control" name="año" required>
+                
+              </div>
+              
+            <div class="mb-3">
+                <label for="formFile" class="form-label">Archivo</label>
+                <input class="form-control" type="file" id="formFile" name="archivosala">
+              </div>
+              
+                    <button type="submit" class="btn btn-primary">Registrar</button>
+            
+              
+
+
+        </form> 
+    </div>
+
+
+
+
+    </body>
+
+
+</html>
