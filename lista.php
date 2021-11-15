@@ -115,7 +115,7 @@
 <caption>SALA SITUACIONAL HOSPITAL REGIONAL DE ICA - COVID (NOVIEMBRE 2021) </caption>
         <table>
             <tr>
-            <td>idsala</td>
+            <td> Id</td>
             <td>DESCRIPCION</td>
             <td>FECHA</td> 
             <td>Descargar</td>
@@ -125,15 +125,15 @@
 
         <?php
         include("cn.php");
-        $salas="SELECT * FROM salasituacional1";
+        $salas="SELECT * FROM sala_situacional";
 ?>
 
             <?php $resultado=mysqli_query($conexion,$salas);
             while($row=mysqli_fetch_assoc($resultado)) { ?>
             <tr> 
-                <td><?php echo $row["idsala"];?></td>
-                <td><?php echo $row["nombresala"];?></td>
-                <td><?php echo $row["año"];?></td>
+            <td><?php echo $row["idsala"];?></td>
+                <td><?php echo $row["descripcion"];?></td>
+                <td><?php echo $row["fecha"];?></td>
                 
                 
                 <td><a href="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . '/sala1/' . $row["archivosala"];?>">ver archivo</a></td>
